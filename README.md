@@ -1,5 +1,5 @@
 # 💫 About Me:
-## You can call me Julian!👋<br><br>🔭 I’m currently studying Computer Science as a College Student<br>🌱 I’m currently learning about Web Development and C++
+## You can call me Julian!👋<br><br>🔭 I’m currently studying Computer Science as a College Student<br>🌱 Currently learning about Web Development and C++
 
 
 # 💻 Tech Stack:
