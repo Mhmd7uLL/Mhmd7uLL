@@ -1,7 +1,6 @@
 # 💫 About Me:
 ## You can call me Julian!👋<br><br>
-
-🔭 I’m currently studying Computer Science as a College Student
+🔭 I’m currently studying Computer Science as a College Student <br><br>
 🌱 Currently learning about Web Development and C++
 
 
