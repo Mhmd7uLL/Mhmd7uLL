@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## You can call me Julian!👋<br>
 🔭 Studying Computer Science as a College Student <br>
-👨‍💻 Web Development (self-learn) and C++ (Main course in College)
+👨‍💻 Web Development (self-learn) and C++ (Main course in College) <br>
 🌱 Interested in Development field
 
 # 💻 Tech Stack:
