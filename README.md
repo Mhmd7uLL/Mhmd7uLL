@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Call me Julian!👋<br>
 🔭 Studying Computer Science <br>
-👨‍💻 Web Development (self-learn) and C++ (Main course) <br>
+👨‍💻 Web Development
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
