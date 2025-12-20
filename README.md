@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Not quite love, but interested at Tech<br>📚 Currently learning Web Development<br>🎯 Goals: Being Expert at FE<br></p>
+<p align="left">✨ Not quite love, but interested at Tech<br>📚 Currently learning Web Development<br>🎯 Goals: Being good enough FE then continue to BE<br></p>
 
 ###
 
