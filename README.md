@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">About Me👋!</h1>
 
 ###
 
-<p align="left">You can call me Julian</p>
+<h3 align="left">You can call me Julian</h3>
 
 ###
 
