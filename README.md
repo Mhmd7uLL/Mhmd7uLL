@@ -1,18 +1,30 @@
-# 💫 About Me:
+<h1 align="left">Hey 👋</h1>
 
-<div align="center">
-## Call me Julian!👋<br>
-🔭 Studying Computer Science <br>
-👨‍💻 Web Development
+###
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="left">You can call me Julian</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mhmd7uLL&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mhmd7uLL&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd7uLL&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Not quite love, but interested at Tech<br>📚 Currently learning Web Development<br>🎯 Goals: Being Expert at FE<br></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
