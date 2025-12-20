@@ -1,6 +1,6 @@
-<div align="center">
-  
 # 💫 About Me:
+
+<div align="center">
 ## Call me Julian!👋<br>
 🔭 Studying Computer Science <br>
 👨‍💻 Web Development
