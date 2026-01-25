@@ -1,4 +1,8 @@
-<h1 align="center">Let's get to know each other👋!</h1><h2 align="center">You can call me Julian</h2>
+<h1 align="center">Let's get to know each other👋!</h1>
+
+###
+
+<h2 align="center">You can call me Julian</h2>
 
 ###
 
@@ -27,8 +31,11 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mhmd7uLL&theme=radical" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mhmd7uLL&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mhmd7uLL&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd7uLL&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
