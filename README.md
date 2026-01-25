@@ -1,8 +1,8 @@
-<h1 align="left">Let's get to know each other👋!</h1>
+<h1 align="center">Let's get to know each other👋!</h1>
 
 ###
 
-<h3 align="left">You can call me Julian</h3>
+<h2 align="center">You can call me Julian</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Not quite love, but interested at Tech<br>📚 Currently learning Web Development, especially into JS Framework<br>🎯 Goals: Make a responsive, structural, flexibel and simple website<br></p>
+<p align="left">✨ interested at Tech<br>📚 Currently learning Web Development, especially into JS Framework<br>🎯 Goals: Make a responsive, structural, flexibel and simple website<br></p>
 
 ###
 
