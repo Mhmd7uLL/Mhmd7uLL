@@ -32,8 +32,10 @@
 ###
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Mhmd7uLL&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd7uLL&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
