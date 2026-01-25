@@ -1,5 +1,4 @@
-<h1 align="center">Let's get to know each other👋!</h1>
-<h2 align="center">You can call me Julian</h2>
+<h1 align="center">Let's get to know each other👋!</h1><h2 align="center">You can call me Julian</h2>
 
 ###
 
