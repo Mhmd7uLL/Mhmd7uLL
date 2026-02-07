@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ interested at Tech<br>📚 Currently learning Web Development, especially into JS Framework<br>🎯 Goals: Make a responsive, structural, flexibel and simple website<br></p>
+<p align="left">✨ interested at Tech<br>📚 Currently learning Web Development, especially MERN Development<br>🎯 Goals: Make a responsive, structural, flexibel and simple website<br></p>
 
 ###
 
