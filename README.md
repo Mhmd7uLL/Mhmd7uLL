@@ -2,15 +2,11 @@
 
 ###
 
-<h2 align="center">You can call me Julian</h2>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ interested at Tech<br>📚 Currently learning Web Development, especially MERN Development<br>🎯 Goals: Make a responsive, structural, flexibel and simple website<br></p>
+<p align="left">You can call me Julian<br>✨ interested at Tech<br>📚 Currently learning Web Development, especially MERN Development<br>🎯 Goals: Make a responsive, structural, flexibel and simple website<br></p>
 
 ###
 
