@@ -1,21 +1,41 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Muhammad%20Julian%20N.&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-time%20instagram-scroller%20%7C%20Part-time%20mahasigma&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Muhammad%20Julian%20N.&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-time%20instagram-scroller&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+## 🚀 About Me
+<div>
+
+📚 Student of Computer Science, 2nd Year<br>
+🌱 Currently learning **Express.JS & Database** <br>
+👨‍💻 Portfolio: [click here](https://mhmd7ull-porto.vercel.app/)
+  
+</div>
+
+## 🛠 Tech Stack
+
+<h3 align="left">Language</h3>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<h3 align="left">Front-end & Design</h3>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<h3 align="left">Back-end</h3>
+
+![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mhmd7uLL&theme=onedark&hide_border=true&cache_seconds=86400" alt="Mhmd7uLL's GitHub Streak" width="49%" />
+  <a href="https://github.com/Mhmd7uLL">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mhmd7uLL&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
+  </a>
+  
+  <a href="https://github.com/Mhmd7uLL">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhmd7uLL&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="Mhmd7uLL's GitHub Stats" />
+  </a>
 </p>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<p align="center" flex-direction="row">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="45" height="45"/>
-</p>
-
-###
