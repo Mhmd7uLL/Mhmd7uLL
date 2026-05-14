@@ -4,7 +4,7 @@
 <div>
 
 📚 Student of Computer Science, 2nd Year<br>
-🌱 Currently learning **Express.JS & Database** <br>
+🌱 Currently learning **Express.Js & Database** <br>
 👨‍💻 Portfolio: [click here](https://mhmd7ull-porto.vercel.app/)
   
 </div>
