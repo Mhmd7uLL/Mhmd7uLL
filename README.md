@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Muhammad%20Julian%20N.&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-time%20instagram-scroller&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Muhammad%20Julian%20N.&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-time%20Scroller&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 ## 🚀 About Me
 <div>
 
 📚 Student of Computer Science, 2nd Year<br>
-🌱 Currently learning **Express.Js & Database** <br>
+🌱 Currently learning **Node.Js & Express.Js** <br>
 👨‍💻 Portfolio: [click here](https://mhmd7ull-porto.vercel.app/)
   
 </div>
