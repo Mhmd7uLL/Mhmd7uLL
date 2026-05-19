@@ -4,7 +4,7 @@
 <div>
 
 📚 Student of Computer Science, 2nd Year<br>
-🌱 Currently learning **Node.Js & Express.Js** <br>
+🌱 Currently learning **MERN Stack** <br>
 👨‍💻 Portfolio: [click here](https://mhmd7ull-porto.vercel.app/)
   
 </div>
@@ -15,7 +15,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h3 align="left">Front-end & Design</h3>
+<h3 align="left">Design and Front-end</h3>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,10 +26,6 @@
 
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-<h3 align="left">Database</h3>
-
-**Soon :v**
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
