@@ -3,10 +3,17 @@
 ## 🚀 About Me
 <div>
 
-📚 Student of Computer Science, 2nd Year<br>
-🌱 Currently learning **MERN Stack** <br>
-👨‍💻 Portfolio: [click here](https://mhmd7ull-porto.vercel.app/)
-  
+export const me = (req, res) => { res.status(201).json({
+    status: "success",
+    data: {
+      name: "Muhammad Julianda Nu'man",
+      major: "Computer Science",
+      inProgress: "MERN Stack",
+      portfolio: [click here](https://mhmd7ull-porto.vercel.app/)
+    }
+  })
+}
+
 </div>
 
 ## 🛠 Tech Stack
