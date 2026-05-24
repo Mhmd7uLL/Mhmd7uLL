@@ -9,8 +9,7 @@ export const loadIntro = (req, res) => {
         status: "success",
         data: {
           fullName: "Muhammad Julianda Nu'man",
-          major: "Computer Science",
-          inProgress: "MERN Stack"
+          major: "Computer Science"
         };
     });
 };
