@@ -4,7 +4,7 @@
 <div>
 
 ```javascript
-export const intro = (req, res) => { 
+export const loadIntro = (req, res) => { 
     return res.status(200).json({
         status: "success",
         data: {
