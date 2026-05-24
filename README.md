@@ -8,7 +8,7 @@ export const intro = (req, res) => {
     return res.status(200).json({
         status: "success",
         data: {
-          name: "Muhammad Julianda Nu'man",
+          name: "Muhammad Julian",
           major: "Computer Science",
           inProgress: "MERN Stack"
         };
