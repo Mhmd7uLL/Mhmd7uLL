@@ -3,16 +3,18 @@
 ## 🚀 About Me
 <div>
 
-export const me = (req, res) => { res.status(201).json({
-    status: "success",
-    data: {
-      name: "Muhammad Julianda Nu'man",
-      major: "Computer Science",
-      inProgress: "MERN Stack",
-      portfolio: [click here](https://mhmd7ull-porto.vercel.app/)
-    }
-  })
-}
+```javascript
+export const intro = (req, res) => { 
+    return res.status(200).json({
+        status: "success",
+        data: {
+          name: "Muhammad Julianda Nu'man",
+          major: "Computer Science",
+          inProgress: "MERN Stack"
+        };
+    });
+};
+```
 
 </div>
 
