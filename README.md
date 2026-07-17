@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111837,100:ee4444&text=Muhammad%20Julian&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-time%20Scroller&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=25:000000,100:ee4444&text=Muhammad%20Julian&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-time%20Scroller&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 ## 🚀 About Me
 <div>
