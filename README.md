@@ -35,7 +35,7 @@ export const loadIntro = (req, res) => {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmd7ull)
 </div>
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Mhmd7uLL">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mhmd7uLL&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
